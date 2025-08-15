@@ -181,5 +181,8 @@ Feel free to fork this project and customize it for your own portfolio. If you f
 
 This project is open source and available under the [MIT License](LICENSE).
 
+---
+
+**Happy coding! 🚀**
 
 Your portfolio website is now ready to showcase your skills and projects to the world!
